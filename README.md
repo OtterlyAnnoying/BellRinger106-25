@@ -10,5 +10,4 @@ Students should complete the following steps to implement a Java function that p
 - [ ] Split the username by the '.' character to separate first and last names.
 - [ ] Return the first name and last name as a single string (e.g., "firstname lastname").
 - [ ] Test the function using sample email addresses (e.g., "john.doe@example.com" should return "john doe").
-- [ ] Handle basic error cases (e.g., email not containing '.' or '@').
 - [ ] Document your code with comments explaining each step.
